@@ -14,3 +14,9 @@ i{
 i:hover{
     opacity: 80%;
 }
+body{
+    background-color: #F4E1FE;
+}
+.bg-article{
+    background-color:#F4E1FE ;
+}
